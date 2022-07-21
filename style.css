@@ -1,0 +1,61 @@
+body{
+    background-color: #A5C9CA;
+    text-align: center;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    display: block;
+
+}
+span{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+
+}
+.first{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    margin-right: 9px;
+    padding-right: 683px;
+}
+.second{
+    margin-left: 549px;
+    margin-right: 220px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    padding-right: 468px;
+}
+.med-img{
+    width: 120px;
+    margin-left: 549px;
+    float: left;
+    padding-left: 162px;
+}
+.doctor-img{
+    width: 120px;
+    margin-left: 549px;
+    float: left;
+    padding-left: 162px;
+    margin-top: 6px;
+}
+.paperless-img{
+    width: 120px;
+    margin-left: 549px;
+    float: left;
+    padding-left: 162px;
+    margin-right: 22px;
+}
+.third{
+    margin-left: 549px;
+    margin-right: 220px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    padding-right: 468px;
+    margin-top: 0px;
+}
