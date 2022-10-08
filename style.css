@@ -1,4 +1,5 @@
 
+
 body{
     font-family: "Roboto Mono";
     text-align: center;
@@ -7,22 +8,22 @@ body{
 .container-fluid{
     padding: 3% 10%;
 }
+#title.container-fluid{
+    padding: 3% 10%;
+}
 .main{
     padding-top: 15%;
     padding-left: 25%;
 }
-h2{
-    padding-top: 5%;
-    margin-bottom: 50px;
-    font-family: "Signika Negative";
-    font-size: 3em;
-}
 h1{
-    padding-top: 31%;
+    font-family: monospace;
 }
 .navbar{
     font-family: "Roboto Slab";
     font-size: 17px;
+}
+#headline{
+    top: 160px;
 }
 .nav-item{
     padding: 0 10px;
@@ -30,21 +31,64 @@ h1{
 #title{
     background-color: #ECCCB2;
 }
-.img{
-    padding: 15%;
-    margin:  0 35%;
-    height: 40%;
 
-}
-.text{
-    padding-left: 5%;
-}
 .feature-box {
     padding: 4.5%;
 }
 .icons{
     padding-bottom: 5%;
 }
-h3{
-    font-size: 1.5em;
+.df{
+    height: 250px;
+    padding-left: 20px;
+    
+
+}
+.ef{
+    height: 250px;
+    padding-right: 20px;
+}
+.testimonial-head{
+   padding-top: 25px;
+   margin-bottom: 25px;
+    top: 50px;
+    font-size: 36px;
+    font-family: "Roboto Mono";
+}
+.colored-section{
+    background-color: #ECCCB2;
+    padding-bottom: 58px;
+}
+
+
+.card{
+    background-color: wheat;
+    padding-right: 5px;
+}
+.pricing-head{
+    font-family: "Roboto Mono";
+    font-size: 30px;
+    padding: 35px 0 35px 0;
+}
+.row{
+    padding-bottom: 60px;
+}
+
+.last-heading{
+    padding: 70px 0 50px 0 ;
+    background-color: #ECCCB2;
+    font-family:"Roboto Mono" ;
+    justify-content: center;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.last-button{
+    background-color: #ECCCB2;
+    padding: 40px 0 60px 0;
+
+}
+.last-line{
+    align-content: center;
+    font-size: 30px;
 }
